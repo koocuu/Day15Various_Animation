@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXScale="50%"
+    android:toXScale="150%"
+    android:fromYScale="50%"
+    android:toYScale="150%"
+    android:fillAfter="true"
+    android:duration = "1000">
+
+</scale>
